@@ -1,0 +1,7 @@
+{
+    "entryPoints": [
+      "./src/ejercicio-mod/inter.ts",
+      "./src/ejercicio-mod/class.ts"
+    ],
+    "out": "./docs"
+  }
