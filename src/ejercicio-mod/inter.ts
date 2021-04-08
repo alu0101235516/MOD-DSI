@@ -15,3 +15,4 @@ export interface inter<T> {
     print(): void;
 
 }
+
